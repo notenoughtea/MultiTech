@@ -1,0 +1,28 @@
+.navbar_content {
+    width: 488px;
+    height: 19px;
+    display: grid;
+    grid-template-columns: 63px 53fr 87fr 117fr 72fr;
+    justify-content: center;
+    align-items: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: #252525;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    /* or 19px */
+    letter-spacing: -0.03em;
+
+
+}
+li {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
